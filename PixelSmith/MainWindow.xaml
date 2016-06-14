@@ -37,11 +37,11 @@
 									x:Name='RippleMenu'
 									Click='RippleMenu_Click' />
 			</MenuItem>
-			<MenuItem Header='Other'>
+			<MenuItem Header='Help'>
 				<MenuItem Header='About'
 									x:Name='AboutMenu'
 									Click='AboutMenu_Click' />
-				<MenuItem Header='Animated'
+				<MenuItem Header='Animated Example'
 									x:Name='AnimatedMenu'
 									Click='AnimatedMenu_Click' />
 				
