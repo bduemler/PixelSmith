@@ -29,7 +29,7 @@ namespace Models
 		}
 		public static List<ArtProject> GetArtProjects()
 		{
-			// add an additional comment
+
 			var temp = new List<ArtProject>();
 			ArtProject art = null;
 
